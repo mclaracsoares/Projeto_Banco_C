@@ -2,8 +2,6 @@
 
 ### Autor: Maria Clara C Soares
 
-Esse projeto retrata o sistema de um banco utilizando arquivo binário para salvamento de dados. O programa permite: fazer empréstimos, deposito, saque, cadastro, remoção e lista de clientes.
-
 ### Descrição:
 
 Este projeto consiste em um sistema simples de banco implementado em linguagem C, utilizando arquivos binários para o armazenamento de dados das contas dos clientes. O programa oferece diversas funcionalidades comuns em um sistema bancário, como cadastro de contas, consulta de saldo, depósito, saque, listagem de contas e remoção de contas.
