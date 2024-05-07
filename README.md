@@ -1,6 +1,6 @@
 # Projeto_Banco_C
 
-###Autor: Maria Clara C Soares
+### Autor: Maria Clara C Soares
 
 Esse projeto retrata o sistema de um banco utilizando arquivo binário para salvamento de dados. O programa permite: fazer empréstimos, deposito, saque, cadastro, remoção e lista de clientes.
 
